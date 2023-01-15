@@ -1,4 +1,21 @@
-# Microservice-application
+# MICROSERVICES APPLICATION DEPLOYMENT IN MY KUBERNETES CLUSTER
 
 
-This is a Microservices application I deployed which is an Online Boutique. It is a cloud-native microservices demo application. Online Boutique consists of a 10-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
+**In this project I deployed a  Microservices application. It is an Online Boutique,  a cloud-native microservices application. This Boutique consists of a 10 services which will communicate with each other. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.**
+
+
+
+**Questions to ask developers before deploying a microservice app**
+
+- Which Microservices you need to deploy
+-  Which Microservice is talking to Which Microservice?
+- How are they communicating?
+- which database are they using?
+- on which port does each microservice run?
+- which servise is accessible from outside the cluster?
+- image name of each microservice
+- what env variable each microservice expects
+
+
+
+
