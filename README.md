@@ -8,13 +8,22 @@
 **Questions to ask developers before deploying a microservice app**
 
 - Which Microservices you need to deploy
+
 -  Which Microservice is talking to Which Microservice?
+
 - How are they communicating?
+
 - which database are they using?
+
 - on which port does each microservice run?
+
 - which servise is accessible from outside the cluster?
+
 - image name of each microservice
+
 - what env variable each microservice expects
+
+
 
 
 
