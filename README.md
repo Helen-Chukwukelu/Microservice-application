@@ -7,6 +7,7 @@
 
 **Questions to ask developers before deploying a microservice app**
 
+
 - Which Microservices you need to deploy
 
 -  Which Microservice is talking to Which Microservice?
@@ -25,6 +26,29 @@
 
 
 
+### The  Services involve:
+
+1. Email service
+
+2. Recommendation service
+
+3. Payment service 
+
+4. Product catalog service
+
+5. Currency service
+
+6. Shipping service
+
+7. Ad service
+
+8. Cart service
+
+9. Checkout service
+
+10. Frontend
+
+11. Redis-cart
 
 
 
