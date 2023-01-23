@@ -1,7 +1,7 @@
 # MICROSERVICES APPLICATION DEPLOYMENT IN MY KUBERNETES CLUSTER
 
 
-**In this project I deployed a  Microservices application. It is an Online Boutique,  a cloud-native microservices application. This Boutique consists of a 10 services which will communicate with each other. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.**
+**In this project I deployed a  Microservices application. It is an Online Boutique,  a cloud-native microservices application. This Boutique consists of a 11 services which will communicate with each other. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.**
 
 
 
